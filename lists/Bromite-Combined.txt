@@ -36,7 +36,6 @@ https://filters.adtidy.org/extension/ublock/filters/11.txt
 
 # Anti Adblock List
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
-https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
 https://fanboy.co.nz/fanboy-problematic-sites.txt
 
 # Badware Malware Resource Lan Abuse
@@ -54,10 +53,6 @@ https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_
 
 # Thailand Filters
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/ublock.txt
-https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/Profile/uBlock%20Origin/Ultimate.txt
-https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters.txt
-https://raw.githubusercontent.com/sipp11/th_ad_filters/master/th_list.txt
 https://adblock-thai.github.io/thai-ads-filter/subscription.txt
 https://adblock-thai.github.io/thai-ads-filter/annoyance.txt
 https://gitlab.com/kowith337/ThaiParanoidBlock/raw/maximum/ThaiParanoid.txt
-https://raw.githubusercontent.com/kowith337/ThaiAntiForceLike/master/AntiForceLike.txt
