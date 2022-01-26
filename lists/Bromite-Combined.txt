@@ -1,0 +1,63 @@
+# ----------------------------------
+# First, all entries from bromite-extended
+# ----------------------------------
+
+# Default entries from https://github.com/bromite/filters/blob/master/lists.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+
+# Annoying Elements, Cookie promts etc.
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+https://filters.adtidy.org/extension/ublock/filters/14.txt
+
+# Other uBlock Origin filters
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+https://github.com/uBlockOrigin/uAssets/blob/master/filters/filters-2021.txt
+https://github.com/uBlockOrigin/uAssets/blob/master/filters/filters-2020.txt
+
+# CNAME record trackers
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+
+# Other Adguard lists
+https://filters.adtidy.org/extension/ublock/filters/2.txt
+https://filters.adtidy.org/extension/ublock/filters/3.txt
+https://filters.adtidy.org/extension/ublock/filters/11.txt
+https://filters.adtidy.org/extension/ublock/filters/11.txt
+
+# Anti Adblock List
+https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
+https://fanboy.co.nz/fanboy-problematic-sites.txt
+
+# Badware Malware Resource Lan Abuse
+https://github.com/uBlockOrigin/uAssets/blob/master/filters/badware.txt
+https://github.com/uBlockOrigin/uAssets/blob/master/filters/lan-block.txt
+https://github.com/uBlockOrigin/uAssets/blob/master/filters/resource-abuse.txt
+
+# Adult Ads
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt
+
+# ----------------------------------
+# Now some region-specific lists
+# ----------------------------------
+
+# Thailand Filters
+https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/ublock.txt
+https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/Profile/uBlock%20Origin/Ultimate.txt
+https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters.txt
+https://raw.githubusercontent.com/sipp11/th_ad_filters/master/th_list.txt
+https://adblock-thai.github.io/thai-ads-filter/subscription.txt
+https://adblock-thai.github.io/thai-ads-filter/annoyance.txt
+https://gitlab.com/kowith337/ThaiParanoidBlock/raw/maximum/ThaiParanoid.txt
+https://raw.githubusercontent.com/kowith337/ThaiAntiForceLike/master/AntiForceLike.txt
