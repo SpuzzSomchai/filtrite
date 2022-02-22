@@ -1,7 +1,0 @@
-{
-  "editor.default_syntax" : "go",
-  "index.ignored_file_patterns" : [
-    ".DS_Store"
-  ],
-  "workspace.preview_root" : "."
-}
