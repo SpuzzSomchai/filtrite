@@ -1,7 +1,1 @@
-filtrite
-tmp/
-.vscode
-deps/
-logs/
-dist/
-release.md
+.DS_Store
