@@ -14,8 +14,6 @@ https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_hide.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 
